@@ -1,6 +1,6 @@
 +++
 date = "2013-12-30T15:33:10+01:00"
-draft = true
+draft = false
 title = "Cloud affairs in the Microsoft world"
 Slug = "cloud-affairs-in-the-microsoft-world"
 section = "post"

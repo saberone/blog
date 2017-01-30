@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 
 [author]
   name = "Saber Karmous"
-  bio = "Super bio with markdown support **COOL**"
+  bio = "Super mighty morphing with markdown support **COOL**"
   job = "Software Artist at Aviva Solutions"
   location = "Netherlands"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
